@@ -1,0 +1,33 @@
+
+						APPOINTMENT BOOKING RECEIPT
+					========================================================================================================================
+
+						Patient Detail
+					-------------------------------------
+
+					Name                      : Sharifah
+					Age                       : 20
+					Gender                    : Female
+					IC number                 : 0101010011
+					Phone number              : 0111111
+					Citizenship               : Citizen
+					Government worker         : Yes
+
+						Appointment Detail
+					-------------------------------------
+
+					Department                : Psychology
+					Date of appointment       : 23/2/2020
+					Time of appointment       : 8.00 am
+					Department                : Psychology
+					Date of appointment       : 23/4/2020
+					Time of appointment       : 8.00 am
+					Registration fee          : RM 5
+					Treatment Fee             : RM 200.00
+
+						Payment Detail
+					-------------------------------------
+
+
+					Total treat             : RM 150.00
+					Total bill              : RM 155.00

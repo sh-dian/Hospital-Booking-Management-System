@@ -1,4 +1,4 @@
-# Hospital-Booking-Management-System
+<h1>Hospital-Booking-Management-System</h1>
 
 <h3>Background: We develop this system to help hospital minimise crowding while people waited for their time to be treated due of the pandemic Covid-19. As a result, they urge all patients to schedule an appointment online before coming to the hospital. Because of restrictions demanding conformity with the government's standard operating procedure, they may regulate the virus's transmission in this manner (SOP).</h3>
 <p>This is a coursework project for our Programming Techniques course that my team (group of four) is working on.

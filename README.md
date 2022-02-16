@@ -11,5 +11,5 @@ The topic applied in this source code for the system are:
   4. Array
   5. File
 
-  <h3 align="left">Language:</h3>
+  <h3 align="left"></i>Language:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></p>

@@ -1,4 +1,4 @@
-<h1>Hospital-Booking-Management-System</h1>
+<h1>Hospital Booking Management System</h1>
 <img align="center" src="https://user-images.githubusercontent.com/90387094/154268609-4b2a85bb-f324-4306-9fc2-d4720311da57.png">
 
 <h4>Background: We develop this system to help hospital minimise crowding while people waited for their time to be treated due of the pandemic Covid-19. As a result, they urge all patients to schedule an appointment online before coming to the hospital. Because of restrictions demanding conformity with the government's standard operating procedure, they may regulate the virus's transmission in this manner (SOP).</h4>
